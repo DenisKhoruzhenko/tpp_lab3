@@ -39,5 +39,5 @@
   ```
 5. Access the Application
 
-  Visit `http://localhost:9091/home` to open the UI.
+   Visit `http://localhost:9091/home` to open the UI.
 
