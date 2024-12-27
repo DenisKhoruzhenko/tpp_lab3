@@ -37,5 +37,7 @@
   ```
   pgcli -p 5432 -h localhost  mydatabase -U myuser -W
   ```
+5. Access the Application
 
+Visit http://localhost:9090/home to open the UI.
 
